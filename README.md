@@ -11,8 +11,7 @@ This repo is functionality complete — PRs and issues welcome!
 
 # Getting started
 
-## Goto Your DATABASE & Create a Tabale With Tow filed "name" & "class"
-## Now go SQL in this tabale and Copy Paste This Code
+### Goto Your DATABASE & Create a Tabale With Tow filed "name" & "class" Now go SQL in this tabale and Copy Paste This Code
 
 
 
